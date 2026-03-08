@@ -44,7 +44,6 @@ Required Python libraries:
 ```
 
 matplotlib
-tqdm
 
 ```
 
@@ -52,7 +51,7 @@ Install dependencies using:
 
 ```
 
-pip install matplotlib tqdm
+pip install matplotlib 
 
 ```
 
