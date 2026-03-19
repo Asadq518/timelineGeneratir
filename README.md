@@ -272,6 +272,7 @@ All forensic investigations must comply with legal, ethical, and organisational 
 MSc Digital Forensics and Cyber Investigation
 Teesside University
 
+---
 
 ## Screenshots
 
